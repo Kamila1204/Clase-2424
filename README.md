@@ -1,2 +1,2 @@
-# Clase-2424
-Angrybirdssss
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
